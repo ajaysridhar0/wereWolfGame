@@ -1,0 +1,8 @@
+﻿  wereWolfGame.cpp
+c:\users\ajays\documents\visual studio 2017\projects\werewolfgame\werewolfgame\werewolfgame.cpp(31): warning C4101: 'pNum': unreferenced local variable
+c:\users\ajays\documents\visual studio 2017\projects\werewolfgame\werewolfgame\werewolfgame.cpp(40): warning C4930: 'std::string trial(std::string,std::string)': prototyped function not called (was a variable definition intended?)
+c:\users\ajays\documents\visual studio 2017\projects\werewolfgame\werewolfgame\werewolfgame.cpp(36): warning C4101: 'input3': unreferenced local variable
+c:\users\ajays\documents\visual studio 2017\projects\werewolfgame\werewolfgame\werewolfgame.cpp(200): warning C4805: '!=': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\ajays\documents\visual studio 2017\projects\werewolfgame\werewolfgame\werewolfgame.cpp(231): warning C4715: 'pickTrial': not all control paths return a value
+  wereWolfGame.vcxproj -> C:\Users\ajays\Documents\Visual Studio 2017\Projects\wereWolfGame\Debug\wereWolfGame.exe
+  wereWolfGame.vcxproj -> C:\Users\ajays\Documents\Visual Studio 2017\Projects\wereWolfGame\Debug\wereWolfGame.pdb (Partial PDB)
